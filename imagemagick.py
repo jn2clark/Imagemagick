@@ -6,6 +6,7 @@ some python wrapppers for imagemagick for cropping, appending, combining
 requires imagemagick 
 good for manipulating many images for making movies
 
+
 @author: jesseclark
 """
 

@@ -3,7 +3,7 @@
 Created on Fri May  8 10:48:12 2015
 
 some python wrapppers for imagemagick for cropping, appending, combining
-requires imagemagick is installed
+requires imagemagick 
 good for manipulating many images
 
 @author: jesseclark
